@@ -89,8 +89,8 @@ require (
 	github.com/mitchellh/mapstructure v1.5.1-0.20220423185008-bf980b35cac4
 	github.com/mrz1836/postmark v1.6.1
 	github.com/nats-io/nats-server/v2 v2.9.23
-	github.com/nats-io/nats.go v1.28.0
-	github.com/nats-io/nkeys v0.4.6
+	github.com/nats-io/nats.go v1.36.0
+	github.com/nats-io/nkeys v0.4.7
 	github.com/open-policy-agent/opa v0.55.0
 	github.com/oracle/oci-go-sdk/v54 v54.0.0
 	github.com/pashagolub/pgxmock/v2 v2.12.0
